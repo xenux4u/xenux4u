@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm mridzikv</h1>
+<h1 align="center">Hi 👋, I'm xenux</h1>
 <h3 align="center">A lifelong learner with a deep fascination for cybersecurity. I love the challenge of web hacking and am constantly exploring new ways to build and protect secure systems.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
